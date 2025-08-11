@@ -1,1 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
 
+.venv/
+venv/
+.env/
+
+.DS_Store
+Thumbs.db
+
+flashcards.db
+*.sqlite
+*.db
+
+.streamlit/
