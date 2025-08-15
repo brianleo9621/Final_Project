@@ -1,2 +1,2 @@
 # Final_Project
-Adaptive Flashcard Quiz App with Learning Pathways
+Flashcard Quiz App
